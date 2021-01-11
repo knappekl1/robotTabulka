@@ -90,7 +90,7 @@ Partial Class Form1
         Me.Label3.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.Label3.AutoSize = True
         Me.Label3.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(238, Byte))
-        Me.Label3.Location = New System.Drawing.Point(375, 515)
+        Me.Label3.Location = New System.Drawing.Point(428, 481)
         Me.Label3.Name = "Label3"
         Me.Label3.Size = New System.Drawing.Size(143, 29)
         Me.Label3.TabIndex = 3
@@ -108,11 +108,11 @@ Partial Class Form1
         '
         Me.tbOutput.Anchor = CType((System.Windows.Forms.AnchorStyles.Top Or System.Windows.Forms.AnchorStyles.Right), System.Windows.Forms.AnchorStyles)
         Me.tbOutput.BackColor = System.Drawing.SystemColors.InactiveBorder
-        Me.tbOutput.Location = New System.Drawing.Point(577, 515)
+        Me.tbOutput.Location = New System.Drawing.Point(577, 481)
         Me.tbOutput.Multiline = True
         Me.tbOutput.Name = "tbOutput"
         Me.tbOutput.ScrollBars = System.Windows.Forms.ScrollBars.Vertical
-        Me.tbOutput.Size = New System.Drawing.Size(410, 80)
+        Me.tbOutput.Size = New System.Drawing.Size(410, 125)
         Me.tbOutput.TabIndex = 5
         '
         'Button1
